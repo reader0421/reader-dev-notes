@@ -1,6 +1,6 @@
-# Reader Dev Notes
+# Reader 的开发笔记
 
-这是 Reader 的个人开发经验文档站，基于 VitePress 和 GitHub Pages 构建，用于沉淀前端、PHP、运维和工程实践。
+这是 Reader 的中文开发经验文档站，基于 VitePress 和 GitHub Pages 构建，用于沉淀前端、PHP、运维和工程实践。
 
 ## 本地开发
 

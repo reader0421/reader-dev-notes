@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Reader Dev Notes
+  name: Reader 的开发笔记
   text: 多年开发经验、技术笔记和工程实践
   tagline: 记录前端、PHP、运维、架构和项目交付中的真实经验。
   actions:
