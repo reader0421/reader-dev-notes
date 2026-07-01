@@ -6,8 +6,8 @@ const isUserOrOrgPage = repository === `${owner}.github.io`
 const base = process.env.BASE_PATH ?? (repository && !isUserOrOrgPage ? `/${repository}/` : '/')
 
 export default defineConfig({
-  title: '个人文档',
-  description: '个人知识库与技术文档',
+  title: 'Reader Dev Notes',
+  description: 'Reader 的开发经验、技术笔记和工程实践',
   lang: 'zh-CN',
   base,
   cleanUrls: true,

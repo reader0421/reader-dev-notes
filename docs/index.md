@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: 个人文档
-  text: 技术笔记、项目经验和开发文档
-  tagline: 用 GitHub 管理内容，用 VitePress 发布到 GitHub Pages。
+  name: Reader Dev Notes
+  text: 多年开发经验、技术笔记和工程实践
+  tagline: 记录前端、PHP、运维、架构和项目交付中的真实经验。
   actions:
     - theme: brand
       text: 开始阅读
